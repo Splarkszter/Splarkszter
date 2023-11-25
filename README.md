@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Splarkszter I'm a passionate gamer, 19 y/o, learning code and engineering, good at logics. Trying to start my life.
+- 👋 Hi, I’m @Splarkszter and I'm learning code and engineering. Trying to start my life.
 - 👀 I’m interested in anything to do with science.
 - 🌱 I’m currently learning -Mechatronics, -Robotics.
 
